@@ -1,0 +1,71 @@
+html {
+    overflow-y: scroll;
+    overflow-x: hidden;
+}
+
+.img-center {
+	display: flex;
+  	align-self: center;
+}
+
+.logo {
+	padding-left: 0;
+}
+
+.email {
+	padding-top: 20px;
+}
+.margin-top {
+	margin-top: 0;
+}
+.padding-right {
+	padding-right: 5px;
+}
+
+.filter-check {
+	display: inline-flex;
+}
+
+.align-right {
+	display: flex;
+	justify-content: right;
+}
+
+.align-left {
+	justify-content: left;
+	display: inline-flex;
+}
+
+.xcenter {
+	display: flex;
+	justify-content: center;
+}
+
+.ycenter {
+	display: flex;
+	align-items: center;
+}
+
+.text {
+	text-align: justify;
+}
+
+.text-center {
+	text-align: center;
+}
+
+.text-left {
+	text-align: left;
+}
+
+.table-top {
+	margin-top: 0;
+}
+
+.hand {
+	cursor: pointer;
+}
+
+.hideRL {
+	display: none;
+}
